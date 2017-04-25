@@ -11,4 +11,4 @@ Penasaran.
 Yang ingin saya dapatkan di Hacktiv8 adalah ilmu dan cari kawan untuk brainstorming. Sedangkan yang ingin dicapai setelah lulus adalah dapat membuat simulasi yang web yang mempermudah penjelasan konsep-konsep sains maupun sosial yang kompleks. 
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-GO GO ARSENE WENGER! MIGHTY MORPHIN ARSENE WENGER!
+GO GO ARSENE WENGER! MIGHTY MORPHIN ARSENE WENGER!!
