@@ -14,3 +14,5 @@ Ekspektasi saya adalah saya bisa paham pemograman secara fundamental, dapat memb
 secara fleksible dimana saja.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+tes
+tesssss
