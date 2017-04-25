@@ -8,5 +8,7 @@ Motivasi saya di Bootcamp ini adalah ingin belajar tentang Node.JS dan belajar J
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
+Ekspekatsi adalah saya ingin menjadi programmer yang lebih handal, dan ingin mendapatkan kerja yang sesuai kemampuan saya.
+
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
