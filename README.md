@@ -10,4 +10,4 @@ Motivasi saya adalah membuat situs dan aplikasi untuk isu sosial seperti SARA, a
 ## Ekspektasi
 Ekspekstasi saya adalah membuat aplikasi yang saya inginkan dan mendapatkan ilmu baru.
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-### Salam Kenal :D 
+### Salam Kenal
